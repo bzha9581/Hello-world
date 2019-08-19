@@ -1,0 +1,19 @@
+Case Study: e-Commerce revamp for one of the largest Food Distributors in the World
+
+Client is one of the largest food distributor in the world and is involved in marketing and distributing food products to restaurants, healthcare and educational facilities, hotels and inns, and other foodservice and hospitality businesses. With over 65,000 associates, the company operates approximately 300 distribution facilities across the globe and serves more than 500,000 customer locations.
+
+
+Entire IT support transitioned to Infosys Managed Services model as the strategic IT partner supporting Client’s Business Technology (BT) organization. The Order Management function is owned and delivered by the Infosys China team.
+
+Technology Landscape:
+GitHub, RedHat Linux 7.0, Aurora (Amazon RDS), React JS, Bootstrap, HTML, SpringBoot, Liquibase, Amazon AWS, GoCD, Sonar Qube, Docker, Rancher, Splunk , CloudWatch, AS400
+
+
+Consolidation of 6 different Order Management applications into a single application based on micro services architecture utilizing Davos tools & automation.
+Enhancements and Support of Legacy applications on AS400 for order processing and finance.
+Development of Offline Order management system for Sales associates and Market Associates for offline order processing.
+French Conversion of Warehouse Management Systems (SWMS) for French Canadian users with peak time of 8 people
+
+
+Infosys team has managed multiple stakeholders and excelled at complex co-ordination between different teams ensuring excellent quality and stringent timelines.
+Flexibility and agility in business process/delivery works, due to the features of the client the requirements change frequently, Infosys team works flexible and agile to meet excellent quality and stringent timelines.
